@@ -1,4 +1,4 @@
-package com.colak.spring_cloud_config_server_native_file_tutorial;
+package com.colak.springtutorial;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
