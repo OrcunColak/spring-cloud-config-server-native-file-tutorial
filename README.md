@@ -1,10 +1,6 @@
-# application.properties for Native
+# Native
 spring.profiles.active=native
 spring.cloud.config.server.native.search-locations=classpath:/configs
-
-# application.properties for Git
-spring.profiles.active=git
-spring.cloud.config.server.git.uri=https://github.com/your-repo/config-repo
 
 # To Refresh
 
